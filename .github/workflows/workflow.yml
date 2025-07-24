@@ -26,6 +26,3 @@ jobs:
       - name: Lint avec flake8
         run: |
         nosetests -v --with-spec --spec-color --with-coverage --cover-package=app
-
-muKJtmpx59n3wYV
-
